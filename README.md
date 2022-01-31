@@ -1,16 +1,16 @@
-## Hello there.
-My name is Hesam, but you can call me Sam :wink:
+### Hi there 👋
 
-I'm a back-end developer, thirsty to create beautiful and amazing software. 
+<!--
+**hesamzakerirad/hesamzakerirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Apart from that, I'm a full-time learner and a cyber-security enthusiast. I truly enjoy contibuting to open-source culture and hoping to change the world one piece of software at a time.
+Here are some ideas to get you started:
 
-Get in touch with me:
-- [Dev.to](https://dev.to/hesamzakerirad)
-- [LinkedIn](https://www.linkedin.com/in/hesamrad)
-- [Mail](mailto:hesamzakerirad@gmail.com) 
-- [Twitter](https://twitter.com/hesamzakerirad) 
-
-Or [Create an Issue.](https://github.com/hesamzakerirad/hesamzakerirad/issues)
-
-[![Hesam's github stats](https://github-readme-stats.vercel.app/api?username=hesamzakerirad&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
