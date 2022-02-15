@@ -5,8 +5,18 @@ I'm a back-end developer, thirsty to create beautiful and amazing software.
 
 Also, I'm a full-time learner and a cyber-security enthusiast. I truly enjoy contibuting to open-source culture and hoping to change the world one piece of software at a time.
 
+---
+**My Latest Blog Posts**
+
+<!-- LOAD-DEV-POSTS:START -->
+
+<!-- LOAD-DEV-POSTS:END -->
+
+[Explore More](https://dev.to/hesamzakerirad)
+
+---
+
 Get in touch with me:
-- [Dev.to](https://dev.to/hesamzakerirad)
 - [LinkedIn](https://www.linkedin.com/in/hesamrad)
 - [Mail](mailto:hesamzakerirad@gmail.com) 
 - [Twitter](https://twitter.com/hesamzakerirad) 
