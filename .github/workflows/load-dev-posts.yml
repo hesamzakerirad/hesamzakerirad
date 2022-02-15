@@ -1,0 +1,10 @@
+name: LOAD-DEV-POSTS
+  # You may pin to the exact commit or the version.
+  # uses: ful1e5/TheActionDev@74ae5a3bbbf9791eaa10f3b3414368de5e9875b9
+  uses: ful1e5/TheActionDev@v2
+  with:
+    # Api Key from dev.to
+    api-key: https://dev.to/hesamzakerirad
+    directory: # optional, default is .
+    # Files are ignored by action. Multiple files are separated by ','(Comma).
+    ignore: # optional
