@@ -8,6 +8,9 @@ Also, I'm a full-time learner and a cyber-security enthusiast. I truly enjoy con
 **Read My Last Dev Articles:**
 
 <!-- BLOG-POST-LIST:START -->
+- [Easily Debug JSON APIs in Laravel!](https://dev.to/hesamzakerirad/easily-debug-json-apis-in-laravel-38mh)
+- [Developing Quality API with Laravel - Tip #3](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-3-2m8g)
+- [Developing Quality API with Laravel - Tip #2](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-2-7a8)
 <!-- BLOG-POST-LIST:END -->
 
 **Get in touch with me:**
