@@ -1,9 +1,11 @@
-## Hello there.
-My name is Hesam, but you can call me Sam :wink:
+## Hello there; I'm Hesam!
 
-I'm a back-end developer, thirsty to create beautiful and amazing software. 
+**Few Things About Me:**
 
-Also, I'm a full-time learner and a cyber-security enthusiast. I truly enjoy contibuting to open-source culture and hoping to change the world one piece of software at a time.
+- Some poeple like to call me Sam (You can too :winky-face:)
+- A back-end developer, thirsty to create beautiful and amazing software
+- A full-time learner and a cyber-security enthusiast
+- Actively trying to change the world one piece of software at a time
 
 **Read My Last Dev Articles:**
 
@@ -12,6 +14,8 @@ Also, I'm a full-time learner and a cyber-security enthusiast. I truly enjoy con
 - [Developing Quality API with Laravel - Tip #3](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-3-2m8g)
 - [Developing Quality API with Laravel - Tip #2](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-2-7a8)
 <!-- BLOG-POST-LIST:END -->
+
+
 
 **Get in touch with me:**
 - [Dev.to](https://dev.to/hesamzakerirad)
