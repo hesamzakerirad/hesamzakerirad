@@ -10,9 +10,9 @@
 **Read My Last Dev Articles:**
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Debug JSON APIs in Laravel!](https://dev.to/hesamzakerirad/easily-debug-json-apis-in-laravel-38mh)
 - [Developing Quality API with Laravel - Tip #3](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-3-2m8g)
 - [Developing Quality API with Laravel - Tip #2](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-2-7a8)
+- [How does TLS handshake work?](https://dev.to/hesamzakerirad/how-does-tls-handshake-work-2198)
 <!-- BLOG-POST-LIST:END -->
 
 
