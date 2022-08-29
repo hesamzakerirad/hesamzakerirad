@@ -13,4 +13,4 @@ Get in touch with me:
 
 Or [Create an Issue.](https://github.com/hesamzakerirad/hesamzakerirad/issues)
 
-[![Hesam's github stats](https://github-readme-stats.vercel.app/api?username=hesamzakerirad&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hesamzakerirad&show_icons=true&count_private=true&theme=gotham&hide_rank=false" alt="hesamzakerirad" />
