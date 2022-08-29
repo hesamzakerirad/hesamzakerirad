@@ -23,4 +23,4 @@
 - [Mail](mailto:hesamrad.dev@gmail.com) 
 - [Twitter](https://twitter.com/hesamzakerirad) 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hesamzakerirad&show_icons=true&count_private=true&theme=default&bg_color=00000000&text_color=c9d1d9&hide_rank=false" alt="hesamzakerirad" />
+<img src="https://github-readme-stats.vercel.app/api?username=hesamzakerirad&show_icons=true&count_private=true&theme=default&bg_color=00000000&text_color=c9d1d9&hide_rank=false&hide_border=true" alt="hesamzakerirad" />
