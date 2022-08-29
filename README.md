@@ -8,9 +8,7 @@ Also, I'm a full-time learner and a cyber-security enthusiast. I truly enjoy con
 Get in touch with me:
 - [Dev.to](https://dev.to/hesamzakerirad)
 - [LinkedIn](https://www.linkedin.com/in/hesamrad)
-- [Mail](mailto:hesamzakerirad@gmail.com) 
+- [Mail](mailto:hesamrad.dev@gmail.com) 
 - [Twitter](https://twitter.com/hesamzakerirad) 
-
-Or [Create an Issue.](https://github.com/hesamzakerirad/hesamzakerirad/issues)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hesamzakerirad&show_icons=true&count_private=true&theme=gotham&hide_rank=false" alt="hesamzakerirad" />
