@@ -1,6 +1,6 @@
 ## Hello there; I'm Hesam!
 
-**Few Things About Me:**
+**A Few Things About Me:**
 
 - Some poeple like to call me Sam (You can too :winky-face:)
 - A back-end developer, thirsty to create beautiful and amazing software
