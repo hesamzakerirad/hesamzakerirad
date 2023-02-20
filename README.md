@@ -2,7 +2,7 @@
 
 **A Few Things About Me:**
 
-- Some poeple like to call me Sam (You can too :winky-face:)
+- You can call me Sam ;)
 - A back-end developer, thirsty to create beautiful and amazing software
 - A full-time learner and a cyber-security enthusiast
 - Actively trying to change the world one piece of software at a time
