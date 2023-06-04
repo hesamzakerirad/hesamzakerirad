@@ -22,6 +22,7 @@
 - [LinkedIn](https://www.linkedin.com/in/hesamrad)
 - [Mail](mailto:hesamrad.dev@gmail.com) 
 - [Twitter](https://twitter.com/hesamzakerirad) 
+- [Get My Resume](mailto:hesamrad.dev@gmail.com?subject=Resume&body=Hey%20I%20would%20like%20to%20have%20a%20copy%20of%20your%20resume.)
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hesamzakerirad&show_icons=true&count_private=true&theme=default&bg_color=00000000&text_color=c9d1d9&hide_rank=false" alt="hesamzakerirad" />
