@@ -2,10 +2,11 @@
 
 **A Few Things About Me:**
 
-- You can also call me Sam ;)
-- A back-end developer, thirsty to create beautiful and amazing software
-- A full-time learner and a cyber-security enthusiast
-- Actively trying to change the world one piece of software at a time
+- People call me Sam.
+- I'm a back-end developer, thirsty to create amazing software.
+- My main stack is LAMP, but I am pretty open to learn new things.
+
+It is so nice to have you here.
 
 **Read My Last Dev Articles:**
 
