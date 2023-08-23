@@ -11,9 +11,9 @@ It is so nice to have you here.
 **Read My Last Dev Articles:**
 
 <!-- BLOG-POST-LIST:START -->
-- [Developing Quality API with Laravel - Tip #4](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-4-359h)
-- [Developing Quality API with Laravel - Tip #3](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-3-2m8g)
-- [Developing Quality API with Laravel - Tip #2](https://dev.to/hesamzakerirad/developing-quality-api-with-laravel-tip-2-7a8)
+- [Developing Quality API with Laravel - Tip #4](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-4-359h)
+- [Developing Quality API with Laravel - Tip #3](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-3-2m8g)
+- [Developing Quality API with Laravel - Tip #2](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-2-7a8)
 <!-- BLOG-POST-LIST:END -->
 
 
