@@ -19,7 +19,7 @@ It is so nice to have you here.
 
 
 **Get in touch with me:**
-- [Dev.to](https://dev.to/hesamzakerirad)
+- [Dev.to](https://dev.to/hesamrad)
 - [LinkedIn](https://www.linkedin.com/in/hesamrad)
 - [Mail](mailto:hesamrad.dev@gmail.com) 
 - [Twitter](https://twitter.com/hesamzakerirad) 
