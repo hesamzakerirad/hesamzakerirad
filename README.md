@@ -1,14 +1,12 @@
-## Hello there; I'm Hesam!
+## Hello and welcome!
 
-**A Few Things About Me:**
+**About me**
 
-- People call me Sam.
-- I'm a back-end developer, thirsty to create amazing software.
-- My main stack is LAMP, but I am pretty open to learn new things.
+- I'm Hesam; I also go by Sam.
+- I'm a curious back-end developer trying to understand how everything works!
+- My main stack is LAMP; and I am pretty open to learn new things.
 
-It is so nice to have you here.
-
-**Read My Last Dev Articles:**
+**Read my last Dev articles**
 
 <!-- BLOG-POST-LIST:START -->
 - [Developing Quality API with Laravel - Tip #4](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-4-359h)
@@ -18,9 +16,7 @@ It is so nice to have you here.
 
 
 
-**Get in touch with me:**
-- [Dev.to](https://dev.to/hesamrad)
+**Get in touch with me**
 - [LinkedIn](https://www.linkedin.com/in/hesamrad)
-- [Mail](mailto:hesamrad.dev@gmail.com) 
 - [Twitter](https://twitter.com/hesamzakerirad) 
-- [Get My Resume](mailto:hesamrad.dev@gmail.com?subject=Resume&body=Hey%20I%20would%20like%20to%20have%20a%20copy%20of%20your%20resume.)
+- [Mail](mailto:hesamrad.dev@gmail.com) 
