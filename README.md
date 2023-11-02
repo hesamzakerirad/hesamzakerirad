@@ -9,9 +9,9 @@
 **Read my last Dev articles**
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Bring ChatGPT into Your Laravel Application?](https://dev.to/hesamrad/how-to-bring-chatgpt-into-your-laravel-application-10fh)
 - [Developing Quality API with Laravel - Tip #4](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-4-359h)
 - [Developing Quality API with Laravel - Tip #3](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-3-2m8g)
-- [Developing Quality API with Laravel - Tip #2](https://dev.to/hesamrad/developing-quality-api-with-laravel-tip-2-7a8)
 <!-- BLOG-POST-LIST:END -->
 
 
